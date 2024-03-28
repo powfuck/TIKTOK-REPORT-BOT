@@ -29,7 +29,8 @@
 2. OPEN CMD & Type gem install cgi httparty json nokogiri colorize net-http-persistent
 3. Run The Script **Ruby main.rb**
 4. Open Browser And Go To [Proxy](https://advanced.name/freeproxy/) & Click The Button For Get Free Proxies Link (2 GEN KEY)
-5. Paste The KEY example key https://advanced.name/freeproxy/ <key>
+NOTE: Take the key in the last part of the link you got from the website above
+5. Paste The KEY example key 
 6. Put The Username Target & Hit Enter
 
 > Thanks To [@givtt](https://github.com/givtt) For Make it Easy To Get User ID 💖
