@@ -1,8 +1,7 @@
 <p align='center'>
   <b>📌 Follow Me ↷</b><br>  
-  <a href="https://discord.com/users/994296793070325771">Discord</a> |
-  <a href="https://instagram.com/lonely.ida">Instagram</a> |
-  <a href="https://github.com/LeetIDA">Github</a><br><br>
+  <a href="https://instagram.com/ipowfu.vm">Instagram</a> |
+  <a href="https://github.com/powfuck">Github</a><br><br>
 </p>
 
 ##
@@ -42,8 +41,8 @@
 
 ### 🧰 Support
 
-- Email: <xe_@outlook.jp>
-- Instagram: https://instagram.com/lonely.ida
+- Telegram: @still_trash
+- Instagram: https://instagram.com/ipowfu.cm
 
 ##
 
